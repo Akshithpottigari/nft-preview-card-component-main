@@ -1,5 +1,9 @@
 # Frontend Mentor - NFT preview card component
 
+
+# Preview Site
+https://akshithpottigari-nft-preview-card-main.netlify.app/
+
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
