@@ -36,6 +36,11 @@ body{
     color: hsl(0, 0%, 60%);;
 }
 
+
+.ethereum{
+    color: var(--cyan);
+}
+
 .container{
     padding: 1.25rem;
     background-color: var(--card-bg);
@@ -98,9 +103,6 @@ body{
     margin-right: 0.5rem;
 }
 
-.ethereum{
-    color: var(--cyan);
-}
 
 .container .avatar{
     display: flex;
